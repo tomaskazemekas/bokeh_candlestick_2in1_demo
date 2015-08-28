@@ -1,4 +1,4 @@
-# bokeh_candlestic_2in1_demo
+# bokeh_candlestick_2in1_demo
 
 2 in 1 graph.
 
